@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libtofunction.a  CMakeFiles/tofunction.dir/sourses/tofunction.cpp.o CMakeFiles/tofunction.dir/sourses/integral.cpp.o
+/usr/bin/ranlib ../lib/libtofunction.a

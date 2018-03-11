@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/integral_computing.dir/sourses/main.cpp.o  -o ../bin/integral_computing -rdynamic ../lib/libtofunction.a ../lib/libintegral.a 

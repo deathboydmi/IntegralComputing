@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deathboydmi/Documents/Computational methods/Computing a integral/sourses/integral.cpp
+integral.hpp
+/home/deathboydmi/Documents/Computational methods/Computing a integral/sourses/integral.hpp
+
+/home/deathboydmi/Documents/Computational methods/Computing a integral/sourses/integral.hpp
+string
+-
+random
+-
+tofunction.h
+/home/deathboydmi/Documents/Computational methods/Computing a integral/sourses/tofunction.h
+
+/home/deathboydmi/Documents/Computational methods/Computing a integral/sourses/tofunction.cpp
+tofunction.h
+/home/deathboydmi/Documents/Computational methods/Computing a integral/sourses/tofunction.h
+
+/home/deathboydmi/Documents/Computational methods/Computing a integral/sourses/tofunction.h
+string
+-
+stack
+-
+cmath
+-
+

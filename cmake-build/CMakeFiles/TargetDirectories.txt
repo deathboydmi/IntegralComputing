@@ -1,0 +1,5 @@
+/home/deathboydmi/Documents/Computational methods/Computing a integral/cmake-build/CMakeFiles/edit_cache.dir
+/home/deathboydmi/Documents/Computational methods/Computing a integral/cmake-build/CMakeFiles/tofunction.dir
+/home/deathboydmi/Documents/Computational methods/Computing a integral/cmake-build/CMakeFiles/integral.dir
+/home/deathboydmi/Documents/Computational methods/Computing a integral/cmake-build/CMakeFiles/integral_computing.dir
+/home/deathboydmi/Documents/Computational methods/Computing a integral/cmake-build/CMakeFiles/rebuild_cache.dir
